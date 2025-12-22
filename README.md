@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working through my second master's which is in AI/ML.<br>👯 I’m looking to collaborate to solve metabolic and cardiovascular diseases. <br>🤝 I have a background in drug discovery, healthcare delivery, fund-raising, investment management, finance, and start-up incubation. 
+🔭 I’m completed my second master's which is in AI/ML.<br>👯 I’m looking to collaborate to build AI solutions to lifesciences and digital health. <br>🤝 I have a background in drug discovery, healthcare delivery, fund-raising, investment management, finance, and start-up incubation. 
 
 
 # 💻 Tech Stack:
