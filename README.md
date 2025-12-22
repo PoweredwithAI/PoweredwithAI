@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m completed my second master's which is in AI/ML.<br>👯 I’m looking to collaborate to build AI solutions to lifesciences and digital health. <br>🤝 I have a background in drug discovery, healthcare delivery, fund-raising, investment management, finance, and start-up incubation. 
+🔭 After working for ~two decades in drug research,  healthcare, and startups on the business side, I wanted to get more hands on with the scientific and technology side. I've now completed my second master's which is in AI/ML.<br>👯 I’m now looking to collaborate to build AI solutions to lifesciences and digital health. <br>🤝 I have a background in drug discovery, healthcare delivery, fund-raising, investment management, finance, and start-up incubation. 
 
 
 # 💻 Tech Stack:
