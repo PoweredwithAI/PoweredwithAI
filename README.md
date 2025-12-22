@@ -1,5 +1,13 @@
-# 💫 About Me:
-🔭 After working for ~two decades in drug research,  healthcare, and startups on the business side, I wanted to get more hands on with the scientific and technology side. I've now completed my second master's which is in AI/ML.<br>👯 I’m now looking to collaborate to build AI solutions to lifesciences and digital health. <br>🤝 I have a background in drug discovery, healthcare delivery, fund-raising, investment management, finance, and start-up incubation. 
+💫 ### About Me:
+🔭 AI/ML systems architect and **drug discovery** strategist with 20+ years in life sciences, healthcare delivery, and startups, now building hands-on machine learning solutions for computational chemistry and digital health. 
+🤝 Work spans end-to-end AI platforms for obesity drug discovery, multi-omics and RNA-seq clustering, and remote therapeutic monitoring for liver and chronic diseases. 
+
+This space showcases reproducible pipelines, clean code, and experiment-ready prototypes at the intersection of generative models, reinforcement learning, and clinical workflows.
+
+👯 Currently open to collaborations with pharma, biotechs, health systems, and AI teams on:
+- Target discovery, virtual screening, and retrosynthesis for small molecules and peptides.
+- Healthcare AI for remote monitoring, risk stratification, and clinical decision support.
+- Translational projects that connect state-of-the-art models to regulated, real-world clinical use.[8][1]
 
 
 # 💻 Tech Stack:
