@@ -1,8 +1,8 @@
-💫 ### About Me:
-🔭 AI/ML systems architect and **drug discovery** strategist with 20+ years in life sciences, healthcare delivery, and startups, now building hands-on machine learning solutions for computational chemistry and digital health. 
-🤝 Work spans end-to-end AI platforms for obesity drug discovery, multi-omics and RNA-seq clustering, and remote therapeutic monitoring for liver and chronic diseases. 
+### About Me:
+🔭 AI/ML systems architect and **drug discovery** strategist with 20+ years in life sciences, healthcare delivery, and startups, now building hands-on machine learning solutions for computational chemistry and digital health. This space showcases reproducible pipelines, clean code, and experiment-ready prototypes at the intersection of generative models, reinforcement learning, and clinical workflows.
 
-This space showcases reproducible pipelines, clean code, and experiment-ready prototypes at the intersection of generative models, reinforcement learning, and clinical workflows.
+🤝 My work spans end-to-end AI platforms for obesity drug discovery, multi-omics and RNA-seq clustering, and remote therapeutic monitoring. 
+
 
 👯 Currently open to collaborations with pharma, biotechs, health systems, and AI teams on:
 - Target discovery, virtual screening, and retrosynthesis for small molecules and peptides.
