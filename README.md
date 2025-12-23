@@ -7,7 +7,7 @@
 👯 Currently open to collaborations with pharma, biotechs, health systems, and AI teams on:
 - Target discovery, virtual screening, and retrosynthesis for small molecules and peptides.
 - Healthcare AI for remote monitoring, risk stratification, and clinical decision support.
-- Translational projects that connect state-of-the-art models to regulated, real-world clinical use.[8][1]
+- Translational projects that connect state-of-the-art models to regulated, real-world clinical use.
 
 
 # 💻 Tech Stack:
