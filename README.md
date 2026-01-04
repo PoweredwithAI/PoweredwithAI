@@ -4,7 +4,7 @@
 
 💰 **Track Record:** Scaled R&D portfolio $350M → $1B+ | Saved $7M+ in healthcare operations | Led $650M+ in tech due diligence
 
-📍 **Edmonton, AB, Canada** | 🇺🇸 **Open to US/Canada Opportunities** | 🔗 [LinkedIn](https://linkedin.com/in/akakar) | 📧 akshaykakargmail.com
+📍 **Edmonton, AB, Canada** | 🔗 [LinkedIn](https://linkedin.com/in/akakar) | 📧 akshaykakargmail.com
 
 ---
 
