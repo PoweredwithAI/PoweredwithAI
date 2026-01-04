@@ -152,7 +152,6 @@ Deep Learning (LSTM, Transformers, Diffusion Models) • NLP/LLMs (HuggingFace, 
 ### 🌟 Recent Activity
 
 <!--START_SECTION:activity-->
-<!-- GitHub activity auto-updates here -->
 <!--END_SECTION:activity-->
 
 ---
