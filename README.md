@@ -45,7 +45,7 @@ Deep Learning (LSTM, Transformers, Diffusion Models) • NLP/LLMs (HuggingFace, 
 
 ## 🚀 Flagship Projects
 
-### 💊 [Pioneer Spirit: AI Drug Discovery Platform]([https://targetscraper.streamlit.app](https://youtu.be/qcCzyao6460)
+### 💊 [Pioneer Spirit: AI Drug Discovery Platform](https://youtu.be/qcCzyao6460)
 **Business Value:** Accelerates therapeutic R&D timelines by 40-60% through automated screening & design  
 **Tech Stack:** PyTorch, Boltz-2, RDKit, GCP, Streamlit
 
@@ -112,7 +112,7 @@ Deep Learning (LSTM, Transformers, Diffusion Models) • NLP/LLMs (HuggingFace, 
 
 ## 🎓 Education
 
-**Master of Science — Artificial Intelligence & Machine Learning** | IIT-Kanpur (Ranked #36 globally for AI/ML)  
+**eMasters — Artificial Intelligence & Machine Learning** | IIT-Kanpur (Ranked #36 globally for AI/ML)  
 **MBA — Finance** | XLRI (Top 3 business school in India)  
 **Bachelor of Engineering — Mechanical** | University of Delhi  
 **Executive Education — AI Strategy** | MIT Sloan School of Management
@@ -127,19 +127,11 @@ Deep Learning (LSTM, Transformers, Diffusion Models) • NLP/LLMs (HuggingFace, 
 
 ---
 
-## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PoweredwithAI&show_icons=true&theme=radical&hide_border=true)
-
----
-
 ## 📞 Contact
 
 **📧 Email:** akshaykakargmail.com  
-**📱 Phone:** +1 (587) 968-8186  
 **💼 LinkedIn:** [linkedin.com/in/akakar](https://linkedin.com/in/akakar)  
-**🌐 Location:** Edmonton, AB, Canada (Open to US/Canada opportunities)  
-**🛂 Work Authorization:** Canadian Citizen (TN-1/H-1B eligible for US roles)
+**🌐 Location:** Edmonton, AB, Canada (Open to North American opportunities)  
 
 ---
 
@@ -165,16 +157,8 @@ Deep Learning (LSTM, Transformers, Diffusion Models) • NLP/LLMs (HuggingFace, 
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PoweredwithAI&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PoweredwithAI&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PoweredwithAI&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-
 *"Building AI systems that save lives and accelerate cures."*
 
 ---
-
 **⭐ If you're hiring for AI/ML leadership in healthcare/pharma, let's talk: akshaykakargmail.com**
 
