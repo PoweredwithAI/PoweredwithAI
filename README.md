@@ -76,7 +76,7 @@ Deep Learning (LSTM, Transformers, Diffusion Models) • NLP/LLMs (HuggingFace, 
 
 **Applications:** Clinical trial enrollment, treatment stratification, biomarker discovery
 
-🎥 [**Watch Demo**]([https://www.youtube.com/watch?v=qcCzyao6460](https://youtu.be/IoJURctGlI4) | 📊 [**View Project**](https://patient-stratification.streamlit.app)
+🎥 [**Watch Demo**]([https://www.youtube.com/watch?v=qcCzyao6460](https://youtu.be/IoJURctGlI4) | 🌐 [**Live App**](https://patient-stratification.streamlit.app) | 📊 [**View Repository**](https://github.com/PoweredwithAI/PatientStratification)
 
 ---
 
@@ -91,7 +91,7 @@ Deep Learning (LSTM, Transformers, Diffusion Models) • NLP/LLMs (HuggingFace, 
 - Interactive target-disease relationship visualization
 - Target prioritization based on four critical vectors for target decision making
 
-🎥 [**Watch Demo** - RAFT1/mTOR as an obesity target](https://www.youtube.com/watch?v=k_CxplwJz58) | 🌐 [**Live Demo**](https://targetscraper.streamlit.app)
+🎥 [**Watch Demo** - RAFT1/mTOR as an obesity target](https://www.youtube.com/watch?v=k_CxplwJz58) | 🌐 [**Live App**](https://targetscraper.streamlit.app) | 📊 [**View Repository**](https://github.com/PoweredwithAI/PSP)
 
 ---
 
