@@ -91,7 +91,7 @@ Deep Learning (LSTM, Transformers, Diffusion Models) • NLP/LLMs (HuggingFace, 
 - Interactive target-disease relationship visualization
 - Target prioritization based of four critical vectors for target decision making
 
-🌐 [**Live Demo**](https://targetscraper.streamlit.app)
+🎥 [**Watch Demo**]([https://www.youtube.com/watch?v=k_CxplwJz58])(https://www.youtube.com/watch?v=k_CxplwJz58) | 🌐 [**Live Demo**](https://targetscraper.streamlit.app)
 
 ---
 
