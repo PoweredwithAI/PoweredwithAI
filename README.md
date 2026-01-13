@@ -54,13 +54,13 @@ Deep Learning (LSTM, Transformers, Diffusion Models) • NLP/LLMs (HuggingFace, 
 - Predicts biological potency with Random Forest QSAR models
 - Estimates protein binding affinity via Boltz-2 diffusion models
 - Identifies synthesis routes using transformer-based retrosynthesis (RSGPT)
-- Mines research literature with BioBERT NER for target identification
+- Mine research literature with BioBERT NER for target identification
 
 **Data Integration:** ChEMBL, PubChem, BindingDB, Protein Data Bank, UniProt, PMC Literature
 
 🎥 [**Watch 2-Min Demo**](https://www.youtube.com/watch?v=qcCzyao6460) | 📊 [**Try Live App V1.0**](https://targetscraper.streamlit.app)
 
-**Presented to:** University of Illinois College of Medicine with advisors from Sanofi and GSK
+**Presented to:** University of Illinois College of Medicine, with advisors from Sanofi and GSK
 
 ---
 
@@ -89,9 +89,9 @@ Deep Learning (LSTM, Transformers, Diffusion Models) • NLP/LLMs (HuggingFace, 
 - Named Entity Recognition for genes, proteins, diseases
 - Real-time integration with PubMed, PMC, OpenTargets databases
 - Interactive target-disease relationship visualization
-- Target prioritization based of four critical vectors for target decision making
+- Target prioritization based on four critical vectors for target decision making
 
-🎥 [**Watch Demo**]([https://www.youtube.com/watch?v=k_CxplwJz58])(https://www.youtube.com/watch?v=k_CxplwJz58) | 🌐 [**Live Demo**](https://targetscraper.streamlit.app)
+🎥 [**Watch Demo** - RAFT1/mTOR as an obesity target](https://www.youtube.com/watch?v=k_CxplwJz58) | 🌐 [**Live Demo**](https://targetscraper.streamlit.app)
 
 ---
 
