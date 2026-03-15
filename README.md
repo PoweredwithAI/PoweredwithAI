@@ -97,6 +97,7 @@ Deep Learning (LSTM, Transformers, Diffusion Models) • NLP/LLMs (HuggingFace, 
 ---
 ### 📄 GPT‑OSS 120B ATS Resume Tailor (Groq)
 **Business Value:** Automates grounded, ATS‑style resume tailoring and scoring for any job description.
+
 **Tech Stack:** Streamlit, Groq GPT‑OSS (openai/gpt‑oss‑120B, 20B), Sentence Transformers (all‑MiniLM‑L6‑v2), FAISS, pypdf
 
 **Features:**
