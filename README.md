@@ -20,6 +20,7 @@
 - **Built Production AI Platform:** Architected end-to-end generative AI system for drug discovery (presented to University of Illinois, advised by large Pharma leadership)
 - **Clinical ML at Scale:** Achieved 125% performance improvement clustering 9,500 patients across 2,000 gene markers
 - **Entrepreneurship:** Co-founded clean-energy company, raised $1M CAD, secured $10M LOI and C$300k order from pilot customers
+- **LLM Productization:** Built an open-source ATS resume tailoring engine using Groq GPT‑OSS models, FAISS, and Sentence Transformers for grounded, job‑specific resume rewrites.
 
 ---
 
@@ -39,7 +40,7 @@ P&L Management • Strategic Planning • Due Diligence • M&A Integration • 
 Drug Discovery • Precision Medicine • Cheminformatics • Clinical Trial Analytics • Remote Patient Monitoring • Healthcare SaaS
 
 **Technical Stack**  
-Deep Learning (LSTM, Transformers, Diffusion Models) • NLP/LLMs (HuggingFace, BioBERT) • MLOps (GCP, CI/CD, Docker) • Data Science (Pandas, Scikit-learn, UMAP) • Cheminformatics (RDKit, Boltz-2, ChEMBL, PubChem)
+Deep Learning (LSTM, Transformers, Diffusion Models) • NLP/LLMs (HuggingFace, BioBERT, Groq GPT‑OSS) • MLOps (GCP, CI/CD, Docker) • Data Science (Pandas, Scikit-learn, UMAP) • Cheminformatics (RDKit, Boltz-2, ChEMBL, PubChem)
 
 ---
 
@@ -92,6 +93,18 @@ Deep Learning (LSTM, Transformers, Diffusion Models) • NLP/LLMs (HuggingFace, 
 - Target prioritization based on four critical vectors for target decision making
 
 🎥 [**Watch Demo** - RAFT1/mTOR as an obesity target](https://www.youtube.com/watch?v=k_CxplwJz58) | 🌐 [**Live App**](https://targetscraper.streamlit.app) | 📊 [**View Repository**](https://github.com/PoweredwithAI/PSP)
+
+---
+### 📄 GPT‑OSS 120B ATS Resume Tailor (Groq)
+**Business Value:** Automates grounded, ATS‑style resume tailoring and scoring for any job description.
+**Tech Stack:** Streamlit, Groq GPT‑OSS (openai/gpt‑oss‑120B, 20B), Sentence Transformers (all‑MiniLM‑L6‑v2), FAISS, pypdf
+
+**Features:**
+- Performs semantic retrieval over your existing resumes and cover notes, then rewrites them to match a target JD without hallucinating new employers or degrees.
+- Provides ATS‑like scoring (0–100), seniority fit, location/visa risks, missing keywords, and key highlights to surface in applications.
+- Runs embeddings and FAISS index locally, sending only LLM prompts to Groq’s API with deterministic generation (temperature 0.0).
+​
+📊 Repository: https://github.com/PoweredwithAI/Resume-tailor-ats-groq
 
 ---
 
