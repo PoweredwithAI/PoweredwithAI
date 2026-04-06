@@ -4,7 +4,7 @@
 
 💰 **Track Record:** Scaled R&D portfolio $350M → $1B+ | Saved $7M+ in healthcare operations | Led $650M+ in tech due diligence
 
-📍 **Edmonton, AB, Canada** | 🔗 [LinkedIn](https://linkedin.com/in/akakar) | 📧 akshaykakargmail.com
+📍 **Edmonton, AB, Canada** | 🔗 [LinkedIn](https://linkedin.com/in/akakar) | 🎯 [Kaggle](https://www.kaggle.com/ak7180979) | 📧 akshaykakar@gmail.com
 
 ---
 
@@ -40,7 +40,8 @@ P&L Management • Strategic Planning • Due Diligence • M&A Integration • 
 Drug Discovery • Precision Medicine • Cheminformatics • Clinical Trial Analytics • Remote Patient Monitoring • Healthcare SaaS
 
 **Technical Stack**  
-Deep Learning (LSTM, Transformers, Diffusion Models) • NLP/LLMs (HuggingFace, BioBERT, Groq GPT‑OSS) • MLOps (GCP, CI/CD, Docker) • Data Science (Pandas, Scikit-learn, UMAP) • Cheminformatics (RDKit, Boltz-2, ChEMBL, PubChem)
+Deep Learning (CNNs, LSTM, Transformers, Diffusion Models) • Medical Imaging (CLAHE, FastSurferCNN, DICOM preprocessing, semantic segmentation) • 
+NLP/LLMs (HuggingFace, BioBERT, Groq GPT‑OSS) • MLOps (GCP, Weights & Biases, CI/CD, Docker) • Data Science (Pandas, Scikit-learn, OpenCV, UMAP) • Cheminformatics (RDKit, Boltz-2, ChEMBL, PubChem)
 
 ---
 
@@ -65,6 +66,26 @@ Deep Learning (LSTM, Transformers, Diffusion Models) • NLP/LLMs (HuggingFace, 
 
 ---
 
+### 🦴 [Bone Age Assessment — Preprocessing & DL Benchmarking](https://github.com/PoweredwithAI/Bone-age-XRay-preprocessing-DL-comparison)
+
+**Research Question:** Does removing X-ray artefacts and standardising contrast improve downstream model accuracy — and by how much?
+
+**Tech Stack:** PyTorch, PyTorch Lightning, FastSurferCNN, OpenCV, scikit-image, CLAHE, Weights & Biases, Albumentations
+
+**What It Does:**
+- Builds a 3-stage preprocessing pipeline: percentile normalisation → CLAHE enhancement → FSCNN-based artefact removal
+- Trains FastSurferCNN (U-Net) to predict binary hand masks; achieves mean DICE score of **92.79%** against 528 manual ground-truth masks
+- Produces three dataset variants (Raw / Enhanced / Cleaned) for controlled benchmarking across **5 CNN architectures** (ResNet-50, EfficientNet-B3, EfficientNet-V2, ViT-B/16, ConvNeXt-V2)
+- Experiment tracking via Weights & Biases (project: `rsna-bone-age-matrix`)
+
+**Dataset:** RSNA Pediatric Bone Age Challenge 2017 — 12,611 labelled pediatric hand X-rays
+
+**Status:** Phase 1 (preprocessing pipeline) ✅ complete | Phase 2 (DL benchmarking) 🔄 in progress
+
+📊 [**View Repository**](https://github.com/PoweredwithAI/Bone-age-XRay-preprocessing-DL-comparison)
+
+---
+
 ### 🧬 [Patient Stratification Platform](https://patient-stratification.streamlit.app)
 **Business Value:** Enables precision medicine by identifying patient subgroups for targeted interventions  
 **Tech Stack:** Scikit-learn, Autoencoder, UMAP, IsolationForest
@@ -77,7 +98,7 @@ Deep Learning (LSTM, Transformers, Diffusion Models) • NLP/LLMs (HuggingFace, 
 
 **Applications:** Clinical trial enrollment, treatment stratification, biomarker discovery
 
-🎥 [**Watch Demo**]([https://www.youtube.com/watch?v=qcCzyao6460](https://youtu.be/IoJURctGlI4) | 🌐 [**Live App**](https://patient-stratification.streamlit.app) | 📊 [**View Repository**](https://github.com/PoweredwithAI/PatientStratification)
+🎥 [**Watch Demo**](https://youtu.be/IoJURctGlI4) | 🌐 [**Live App**](https://patient-stratification.streamlit.app) | 📊 [**View Repository**](https://github.com/PoweredwithAI/PatientStratification)
 
 ---
 
@@ -143,7 +164,7 @@ Deep Learning (LSTM, Transformers, Diffusion Models) • NLP/LLMs (HuggingFace, 
 
 ## 📞 Contact
 
-**📧 Email:** akshaykakargmail.com  
+**📧 Email:** akshaykakar@gmail.com  
 **💼 LinkedIn:** [linkedin.com/in/akakar](https://linkedin.com/in/akakar)  
 **🌐 Location:** Edmonton, AB, Canada (Open to North American opportunities)  
 
