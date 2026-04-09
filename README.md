@@ -21,6 +21,7 @@
 - **Clinical ML at Scale:** Achieved 125% performance improvement clustering 9,500 patients across 2,000 gene markers
 - **Entrepreneurship:** Co-founded clean-energy company, raised $1M CAD, secured $10M LOI and C$300k order from pilot customers
 - **LLM Productization:** Built an open-source ATS resume tailoring engine using Groq GPT‑OSS models, FAISS, and Sentence Transformers for grounded, job‑specific resume rewrites.
+- **Agentic AI in Production:** Built and deployed a Telegram AI agent that reads live resume PDFs, handles multi-turn career Q&A with zero hallucination, and autonomously books calendar meetings — live 24/7 at [@Akka2026_bot](https://t.me/Akka2026_bot).
 
 ---
 
@@ -41,7 +42,7 @@ Drug Discovery • Precision Medicine • Cheminformatics • Clinical Trial Ana
 
 **Technical Stack**  
 Deep Learning (CNNs, LSTM, Transformers, Diffusion Models) • Medical Imaging (CLAHE, FastSurferCNN, DICOM preprocessing, semantic segmentation) • 
-NLP/LLMs (HuggingFace, BioBERT, Groq GPT‑OSS) • MLOps (GCP, Weights & Biases, CI/CD, Docker) • Data Science (Pandas, Scikit-learn, OpenCV, UMAP) • Cheminformatics (RDKit, Boltz-2, ChEMBL, PubChem)
+NLP/LLMs (HuggingFace, BioBERT, Groq GPT‑OSS) • MLOps (GCP, Weights & Biases, CI/CD, Docker) • Data Science (Pandas, Scikit-learn, OpenCV, UMAP) • Cheminformatics (RDKit, Boltz-2, ChEMBL, PubChem) • Agent Frameworks (python-telegram-bot, Groq tool-calling, multi-turn context management, calendar automation, Dropbox API, SQLite, Railway (24/7 cloud hosting))
 
 ---
 
@@ -130,6 +131,25 @@ NLP/LLMs (HuggingFace, BioBERT, Groq GPT‑OSS) • MLOps (GCP, Weights & Biases
 
 ---
 
+### 🤖 [Telegram AI Career Agent](https://github.com/PoweredwithAI/Telegram_agent_AI)
+
+**Business Value:** Deployed a production AI agent acting as an interactive resume + autonomous meeting scheduler — built as a direct response to a live APM hiring challenge.
+
+**Tech Stack:** Python, Groq (LLaMA 3.3-70B), python-telegram-bot, Dropbox API, SQLite, Railway (24/7 cloud hosting)
+
+**What It Does:**
+- Ingests and grounds responses on actual resume PDFs loaded live from Dropbox — zero hallucination via strict system prompt + temperature 0.2
+- Handles multi-turn conversations about projects, product decisions, and technical background with citation-anchored answers
+- Detects calendar links (Calendly, Google Calendar, Teams, Outlook) via regex and autonomously initiates a meeting booking flow
+- Tracks every user, message count, and booking request in SQLite with owner-only `/stats` and `/block` admin commands
+- Rate-limited per user (configurable req/min + req/day) to prevent abuse
+- Open-sourced as a plug-and-play template for any job seeker
+
+**Why It Was Built:** Direct response to a hiring challenge: *"No cover letter. Build an AI agent. DM me its number."* — shipped and deployed in under 48 hours.
+
+🤖 [**Try It Live → @Akka2026_bot on Telegram**](https://t.me/Akka2026_bot) | 📊 [**View Repository**](https://github.com/PoweredwithAI/Telegram_agent_AI)
+
+---
 ### ⚙️ LLM-Powered Web Intelligence Platform
 **Business Value:** Automates knowledge extraction for competitive intelligence & market research  
 **Tech Stack:** Groq LLMs, Poetry, REST/GraphQL APIs
