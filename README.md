@@ -1,172 +1,149 @@
 # 👋 Hi, I'm Akshay Kakar
 
-**AI/ML Systems Architect | Drug Discovery & Digital Health | 20+ Years Building Revenue-Driving Technology**
+**Senior AI/ML Systems Engineer (Generative AI, RAG, LLM Systems)**
+Building production-grade AI systems across healthcare, life sciences, and decision intelligence.
 
-💰 **Track Record:** Scaled R&D portfolio $350M → $1B+ | Saved $7M+ in healthcare operations | Led $650M+ in tech due diligence
-
+💰 **Impact:** Scaled R&D portfolio $350M → $1B+ | Delivered $7M+ healthcare cost savings | Led $650M+ in AI/tech investments
+⚙️ **Focus:** LLM systems, retrieval pipelines, agentic workflows, applied ML
+- **Strength:** End-to-end systems from retrieval and modeling to deployment and productization
+- **Domain edge:** Healthcare, drug discovery, medical imaging, clinical analytics
 📍 **Edmonton, AB, Canada** | 🔗 [LinkedIn](https://linkedin.com/in/akakar) | 🎯 [Kaggle](https://www.kaggle.com/ak7180979) | 📧 akshaykakar@gmail.com
 
 ---
 
-## 🎯 What I Bring to Your Organization
+## Why I stand out
 
-### Revenue & Growth Impact
-- **$650M Portfolio Growth:** Scaled R&D operations from $350M to $1B through capability and operation transformation
-- **$7M+ Cost Savings:** Delivered $3.8M in performance optimization at US tele-health player + $3M in payroll efficiency + $1M in recruitment savings
-- **400+ Tech Investments:** Evaluated and directed $650M+ in AI/ML, biotech, and digital health ventures
-- **50K Patient Operations:** Led clinical delivery team serving 50,000 ADHD patients with 300+ physicians/nurse practitioners
+I combine deep AI engineering with senior business leadership experience. That means I do not just train models — I build systems that solve real operational problems, ship reliably, and connect to measurable value.
 
-### Technical Innovation
-- **Built Production AI Platform:** Architected end-to-end generative AI system for drug discovery (presented to University of Illinois, advised by large Pharma leadership)
-- **Clinical ML at Scale:** Achieved 125% performance improvement clustering 9,500 patients across 2,000 gene markers
-- **Entrepreneurship:** Co-founded clean-energy company, raised $1M CAD, secured $10M LOI and C$300k order from pilot customers
-- **LLM Productization:** Built an open-source ATS resume tailoring engine using Groq GPT‑OSS models, FAISS, and Sentence Transformers for grounded, job‑specific resume rewrites.
-- **Agentic AI in Production:** Built and deployed a Telegram AI agent that reads live resume PDFs, handles multi-turn career Q&A with zero hallucination, and autonomously books calendar meetings — live 24/7 at [@Akka2026_bot](https://t.me/Akka2026_bot).
+## 🎯 What I do
+I design and deploy end-to-end AI systems, not just models:
+
+- **RAG Systems**: Semantic retrieval (FAISS + embeddings) + grounded LLM generation
+- **LLM Applications**: Structured workflows, evaluation pipelines, hallucination control
+- **Agent Systems**: Multi-step reasoning + tool integration (APIs, scheduling, state)
+- **Production Deployment**: Dockerized systems on GCP Cloud Run / Railway
+- **Applied ML systems:** Medical imaging, patient stratification, drug discovery, and scientific ML pipelines
 
 ---
 
-## 💼 Core Competencies
+## 🚀 Selected Projects
 
-**Business Leadership**  
-P&L Management • Strategic Planning • Due Diligence • M&A Integration • Team Building • Stakeholder Management • Go-to-Market Strategy
+### 📄ATS Resume Tailor — RAG + LLM System 
+[Live App](https://resume-app-16199155134.us-central1.run.app/) · [Repository](https://github.com/PoweredwithAI/Resume-tailor-ats-groq)
 
-**AI/ML Engineering**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+Built a grounded resume-tailoring system that transforms source resumes into job-specific, ATS-style rewrites without inventing employers, degrees, or achievements.
 
-**Domain Expertise**  
-Drug Discovery • Precision Medicine • Cheminformatics • Clinical Trial Analytics • Remote Patient Monitoring • Healthcare SaaS
+**Highlights**
+- End-to-end pipeline: PDF parsing → chunking → embeddings → FAISS retrieval → LLM rewrite
+- Context-aware chunking by section, company, and role to improve retrieval precision
+- Integrated Groq GPT-OSS models for deterministic resume generation
+- Added ATS-style scoring, keyword gap detection, and seniority fit analysis
+- Deployed as a real-time user-facing application
 
-**Technical Stack**  
-Deep Learning (CNNs, LSTM, Transformers, Diffusion Models) • Medical Imaging (CLAHE, FastSurferCNN, DICOM preprocessing, semantic segmentation) • 
-NLP/LLMs (HuggingFace, BioBERT, Groq GPT‑OSS) • MLOps (GCP, Weights & Biases, CI/CD, Docker) • Data Science (Pandas, Scikit-learn, OpenCV, UMAP) • Cheminformatics (RDKit, Boltz-2, ChEMBL, PubChem) • Agent Frameworks (python-telegram-bot, Groq tool-calling, multi-turn context management, calendar automation, Dropbox API, SQLite, Railway (24/7 cloud hosting))
+**Tech:** Streamlit, Groq GPT-OSS, Sentence Transformers, FAISS, pypdf, Docker, GCP Cloud Run
 
 ---
 
-## 🚀 Flagship Projects
+### 🤖 Telegram AI Career Agent — Agentic AI in Production
+[Live Bot](https://t.me/Akka2026_bot) · [Repository](https://github.com/PoweredwithAI/Telegram_agent_AI)
 
-### 💊 [Pioneer Spirit: AI Drug Discovery Platform](https://youtu.be/qcCzyao6460)
-**Business Value:** Accelerates therapeutic R&D timelines by 40-60% through automated screening & design  
-**Tech Stack:** PyTorch, Boltz-2, RDKit, GCP, Streamlit
+Built and deployed a production AI agent that answers career and project questions grounded in live resume PDFs and can autonomously start meeting-booking workflows.
 
-**What It Does:**
+**Highlights**
+- Grounded answers on live PDF resumes with strict anti-hallucination design
+- Supports multi-turn interactions about projects, product decisions, and technical background
+- Detects scheduling links and initiates calendar booking flows
+- Tracks users, messages, and admin controls through SQLite-backed workflows
+- Deployed 24/7 on Railway
+
+**Why it matters**
+Built as a direct response to a live hiring challenge and shipped in under 48 hours.
+
+**Tech:** Python, Groq LLaMA, python-telegram-bot, Dropbox API, SQLite, Railway
+
+---
+
+### 🧠 Applied ML & Scientific Systems
+
+#### 💊 Pioneer Spirit - AI Drug Discovery Platform 
+[Demo](https://www.youtube.com/watch?v=qcCzyao6460) · [Live App V1.0 Target Scraper only](https://targetscraper.streamlit.app)
+
+Architected an AI platform for drug discovery that supports molecule generation, scoring, binding estimation, retrosynthesis, and literature mining.
+
+**Highlights:**
 - Generates novel drug candidates using LSTM transfer learning (poly-pharmacophore molecules)
 - Predicts biological potency with Random Forest QSAR models
 - Estimates protein binding affinity via Boltz-2 diffusion models
 - Identifies synthesis routes using transformer-based retrosynthesis (RSGPT)
 - Mine research literature with BioBERT NER for target identification
 
-**Data Integration:** ChEMBL, PubChem, BindingDB, Protein Data Bank, UniProt, PMC Literature
+**Data sources**
+ChEMBL, PubChem, BindingDB, Protein Data Bank, UniProt, and PMC literature
 
-🎥 [**Watch 2-Min Demo**](https://www.youtube.com/watch?v=qcCzyao6460) | 📊 [**Try Live App V1.0**](https://targetscraper.streamlit.app)
+**Tech:** PyTorch, RDKit, Boltz-2, BioBERT, GCP, Streamlit
 
 **Presented to:** University of Illinois College of Medicine, with advisors from Sanofi and GSK
 
----
+#### 🦴 Bone Age Assessment — Medical Imaging Pipeline
+[Repository](https://github.com/PoweredwithAI/Bone-age-XRay-preprocessing-DL-comparison)
 
-### 🦴 [Bone Age Assessment — Preprocessing & DL Benchmarking](https://github.com/PoweredwithAI/Bone-age-XRay-preprocessing-DL-comparison)
+Built a medical imaging preprocessing and benchmarking workflow to test whether artifact removal and contrast standardization improve downstream bone-age prediction.
 
-**Research Question:** Does removing X-ray artefacts and standardising contrast improve downstream model accuracy — and by how much?
-
-**Tech Stack:** PyTorch, PyTorch Lightning, FastSurferCNN, OpenCV, scikit-image, CLAHE, Weights & Biases, Albumentations
-
-**What It Does:**
-- Builds a 3-stage preprocessing pipeline: percentile normalisation → CLAHE enhancement → FSCNN-based artefact removal
-- Trains FastSurferCNN (U-Net) to predict binary hand masks; achieves mean DICE score of **92.79%** against 528 manual ground-truth masks
-- Produces three dataset variants (Raw / Enhanced / Cleaned) for controlled benchmarking across **5 CNN architectures** (ResNet-50, EfficientNet-B3, EfficientNet-V2, ViT-B/16, ConvNeXt-V2)
-- Experiment tracking via Weights & Biases (project: `rsna-bone-age-matrix`)
+**Highlights:**
+- Builds a 3-stage preprocessing pipeline: percentile normalization → CLAHE → FSCNN-based artifact removal
+- Trained FastSurferCNN (U-Net) for binary hand masks prediction
+- Achieved **92.79%** mean DICE score against 528 ground-truth masks
+- Created three controlled benchmarking datasets (Raw / Enhanced / Cleaned) across 5 deep learning architectures (ResNet-50, EfficientNet-B3, EfficientNet-V2, ViT-B/16, ConvNeXt-V2)
+- Added experiment tracking with Weights & Biases (project: `rsna-bone-age-matrix`)
 
 **Dataset:** RSNA Pediatric Bone Age Challenge 2017 — 12,611 labelled pediatric hand X-rays
 
+**Tech:** PyTorch, PyTorch Lightning, FastSurferCNN, OpenCV, scikit-image, Albumentations, W&B
+
 **Status:** Phase 1 (preprocessing pipeline) ✅ complete | Phase 2 (DL benchmarking) 🔄 in progress
 
-📊 [**View Repository**](https://github.com/PoweredwithAI/Bone-age-XRay-preprocessing-DL-comparison)
+#### 🧬 Patient Stratification Platform (Unsupervised ML)
+[Live App](https://patient-stratification.streamlit.app) · [Repository](https://github.com/PoweredwithAI/PatientStratification)
 
----
+Built an unsupervised learning pipeline to identify patient subgroups from high-dimensional biological data for precision medicine use cases.
 
-### 🧬 [Patient Stratification Platform](https://patient-stratification.streamlit.app)
-**Business Value:** Enables precision medicine by identifying patient subgroups for targeted interventions  
-**Tech Stack:** Scikit-learn, Autoencoder, UMAP, IsolationForest
-
-**Impact:**
+**Highlights:**
 - Analyzed 9,500 patients × 2,000 gene expression markers
-- Achieved 125% improvement in clustering performance (silhouette score: 0.741 vs 0.33 baseline)
-- Handles high-dimensional, sparse, zero-inflated biological data
-- Benchmarked 3 algorithms across 3 representation spaces
-
+- Improved clustering performance by **125%** over baseline
+- Achieved **0.741 silhouette score vs 0.33 baseline**
+- Benchmarked multiple algorithms across raw, reduced, and latent feature spaces
+- Designed for sparse, zero-inflated biological datasets
+  
 **Applications:** Clinical trial enrollment, treatment stratification, biomarker discovery
 
-🎥 [**Watch Demo**](https://youtu.be/IoJURctGlI4) | 🌐 [**Live App**](https://patient-stratification.streamlit.app) | 📊 [**View Repository**](https://github.com/PoweredwithAI/PatientStratification)
+**Tech:** Scikit-learn, autoencoders, UMAP, IsolationForest, Streamlit
 
----
+#### 🔍 TargetScraper: Research Intelligence Platform
+[Demo](https://www.youtube.com/watch?v=k_CxplwJz58) · [Live App](https://targetscraper.streamlit.app) · [Repository](https://github.com/PoweredwithAI/PSP)
 
-### 🔍 [TargetScraper: Research Intelligence Platform](https://targetscraper.streamlit.app)
-**Business Value:** Reduces target discovery research time from weeks to hours  
-**Tech Stack:** Google Gemini LLMs, REST APIs
+Built a biomedical research intelligence platform to accelerate target discovery from literature and public databases.
 
-**Features:**
+**Highlights**
 - Automated extraction of drug targets from biomedical literature
-- Named Entity Recognition for genes, proteins, diseases
-- Real-time integration with PubMed, PMC, OpenTargets databases
-- Interactive target-disease relationship visualization
-- Target prioritization based on four critical vectors for target decision making
+- Performed entity recognition for genes, proteins, and diseases
+- Integrated PubMed, PMC, and OpenTargets
+- Added relationship visualization and target prioritization workflows
 
-🎥 [**Watch Demo** - RAFT1/mTOR as an obesity target](https://www.youtube.com/watch?v=k_CxplwJz58) | 🌐 [**Live App**](https://targetscraper.streamlit.app) | 📊 [**View Repository**](https://github.com/PoweredwithAI/PSP)
-
----
-### 📄 GPT‑OSS 120B ATS Resume Tailor (Groq)
-**Business Value:** Automates grounded, ATS‑style resume tailoring and scoring for any job description.
-
-**Tech Stack:** Streamlit, Groq GPT‑OSS (openai/gpt‑oss‑120B, 20B), Sentence Transformers (all‑MiniLM‑L6‑v2), FAISS, pypdf
-
-**Features:**
-- Performs semantic retrieval over your existing resumes and cover notes, then rewrites them to match a target JD without hallucinating new employers or degrees.
-- Provides ATS‑like scoring (0–100), seniority fit, location/visa risks, missing keywords, and key highlights to surface in applications.
-- Runs embeddings and FAISS index locally, sending only LLM prompts to Groq’s API with deterministic generation (temperature 0.0).
-​
-📊 Repository: https://github.com/PoweredwithAI/Resume-tailor-ats-groq
+**Tech:** LLMs, REST APIs, biomedical literature pipelines, Streamlit
 
 ---
 
-### 🤖 [Telegram AI Career Agent](https://github.com/PoweredwithAI/Telegram_agent_AI)
+## Technical stack
 
-**Business Value:** Deployed a production AI agent acting as an interactive resume + autonomous meeting scheduler — built as a direct response to a live APM hiring challenge.
-
-**Tech Stack:** Python, Groq (LLaMA 3.3-70B), python-telegram-bot, Dropbox API, SQLite, Railway (24/7 cloud hosting)
-
-**What It Does:**
-- Ingests and grounds responses on actual resume PDFs loaded live from Dropbox — zero hallucination via strict system prompt + temperature 0.2
-- Handles multi-turn conversations about projects, product decisions, and technical background with citation-anchored answers
-- Detects calendar links (Calendly, Google Calendar, Teams, Outlook) via regex and autonomously initiates a meeting booking flow
-- Tracks every user, message count, and booking request in SQLite with owner-only `/stats` and `/block` admin commands
-- Rate-limited per user (configurable req/min + req/day) to prevent abuse
-- Open-sourced as a plug-and-play template for any job seeker
-
-**Why It Was Built:** Direct response to a hiring challenge: *"No cover letter. Build an AI agent. DM me its number."* — shipped and deployed in under 48 hours.
-
-🤖 [**Try It Live → @Akka2026_bot on Telegram**](https://t.me/Akka2026_bot) | 📊 [**View Repository**](https://github.com/PoweredwithAI/Telegram_agent_AI)
-
----
-### ⚙️ LLM-Powered Web Intelligence Platform
-**Business Value:** Automates knowledge extraction for competitive intelligence & market research  
-**Tech Stack:** Groq LLMs, Poetry, REST/GraphQL APIs
-
-- Production-grade scraping pipeline with validation & QA workflows
-- Reproducible deployment using Poetry dependency management
-- Scalable API integration architecture
-
----
-
-## 💼 Professional Experience
-**💼 LinkedIn:** [linkedin.com/in/akakar](https://linkedin.com/in/akakar)  
+- **AI/ML:** PyTorch, TensorFlow, scikit-learn, Transformers, CNNs, ViTs, diffusion models
+- **LLM systems:** RAG, FAISS, embeddings, Hugging Face, Groq, structured prompting, evaluation pipelines
+- **Data & pipelines:** Python, Pandas, OpenCV, UMAP, APIs, SQLite
+- **MLOps & deployment:** Docker, GCP, Railway, Weights & Biases, CI/CD
+- **Domain tools:** RDKit, ChEMBL, PubChem, BioBERT, DICOM preprocessing, FastSurferCNN
 
 ---
 
 ## 🎓 Education
-
 **eMasters — Artificial Intelligence & Machine Learning** | IIT-Kanpur (Ranked #36 globally for AI/ML)  
 **MBA — Finance** | XLRI (Top 3 business school in India)  
 **Bachelor of Engineering — Mechanical** | University of Delhi  
@@ -174,32 +151,28 @@ NLP/LLMs (HuggingFace, BioBERT, Groq GPT‑OSS) • MLOps (GCP, Weights & Biases
 
 ---
 
-### **Open to:**
-- Full-time W2 roles (US/Canada)
-- Remote or hybrid (willing to relocate for right opportunity)
-- Contract/fractional roles
-- Advisory board positions
-
+## **Open to:**
+- Senior AI/ML Engineer roles
+- GenAI / LLM / RAG engineering roles
+- Applied AI roles in healthcare, biotech, and life sciences
+- Remote, hybrid, or relocation-friendly opportunities in Canada or the US
+  
 ---
 
 ## 📞 Contact
 
-**📧 Email:** akshaykakar@gmail.com  
-**💼 LinkedIn:** [linkedin.com/in/akakar](https://linkedin.com/in/akakar)  
-**🌐 Location:** Edmonton, AB, Canada (Open to North American opportunities)  
+- 💼[LinkedIn](https://linkedin.com/in/akakar)
+- 🌐[Kaggle](https://www.kaggle.com/ak7180979)
+- 📧[Email](mailto:akshaykakar@gmail.com)
 
 ---
 
 ## 💡 What Sets Me Apart
 
-**Rare Combination:** Deep technical AI/ML expertise + 20 years P&L/strategy leadership + drug discovery domain knowledge
-
-**Proven Revenue Driver:** Not just an engineer — built businesses, scaled portfolios $350M→$1B, raised capital, led M&A
-
-**Production Experience:** Don't just train models — architect end-to-end platforms, deploy to cloud, integrate data pipelines
-
+**Systems Builder:** End-to-end AI systems (retrieval → generation → evaluation → deployment)
+**Business + AI:** 20 years scaling revenue (strategy, operations, and investment) + deep technical AI capability
+**Production Mindset:** Handles real-world constraints (latency, hallucination, reliability)
 **Healthcare Native:** 15+ years in pharma R&D, digital health operations, clinical trial analytics, remote patient monitoring
-
 **Startup + Enterprise:** Co-founder experience + Fortune 500 leadership + biotech scale-up
 
 ---
@@ -210,9 +183,7 @@ NLP/LLMs (HuggingFace, BioBERT, Groq GPT‑OSS) • MLOps (GCP, Weights & Biases
 <!--END_SECTION:activity-->
 
 ---
-
-*"Building AI systems that save lives and accelerate cures."*
-
+*Building AI systems that work in the real world — not just notebooks.*
 ---
 **⭐ If you're hiring for AI/ML leadership in healthcare/pharma, let's talk: akshaykakargmail.com**
 
