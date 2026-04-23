@@ -7,6 +7,7 @@ Building production-grade AI systems across healthcare, life sciences, and decis
 ⚙️ **Focus:** LLM systems, retrieval pipelines, agentic workflows, applied ML
 - **Strength:** End-to-end systems from retrieval and modeling to deployment and productization
 - **Domain edge:** Healthcare, drug discovery, medical imaging, clinical analytics
+
 📍 **Edmonton, AB, Canada** | 🔗 [LinkedIn](https://linkedin.com/in/akakar) | 🎯 [Kaggle](https://www.kaggle.com/ak7180979) | 📧 akshaykakar@gmail.com
 
 ---
@@ -169,11 +170,11 @@ Built a biomedical research intelligence platform to accelerate target discovery
 
 ## 💡 What Sets Me Apart
 
-**Systems Builder:** End-to-end AI systems (retrieval → generation → evaluation → deployment)
-**Business + AI:** 20 years scaling revenue (strategy, operations, and investment) + deep technical AI capability
-**Production Mindset:** Handles real-world constraints (latency, hallucination, reliability)
-**Healthcare Native:** 15+ years in pharma R&D, digital health operations, clinical trial analytics, remote patient monitoring
-**Startup + Enterprise:** Co-founder experience + Fortune 500 leadership + biotech scale-up
+- **Systems Builder:** End-to-end AI systems (retrieval → generation → evaluation → deployment)
+- **Business + AI:** 20 years scaling revenue (strategy, operations, and investment) + deep technical AI capability
+- **Production Mindset:** Handles real-world constraints (latency, hallucination, reliability)
+- **Healthcare Native:** 15+ years in pharma R&D, digital health operations, clinical trial analytics, remote patient monitoring
+- **Startup + Enterprise:** Co-founder experience + Fortune 500 leadership + biotech scale-up
 
 ---
 
